@@ -46,14 +46,13 @@ The following files were used for electromagnetic and optimization simulations:
 - **ANSYS Electronics Desktop (HFSS / Maxwell)**  
 - **OptiSLang**  
 - **MATLAB** (for post-processing and data visualization)  
-- **Python** (for automation scripts)  
 
 ---
 
 ## Author
 **Kealeboga Motlhankane**  
 Electrical & Computer Engineering, University of Cape Town  
-📧 [Add your email if you want]  
+📧 kea.motlhankane@gmail.com 
 📘 [GitHub Repository](https://github.com/Kealeboga56/WPT_FILES_EEE4022S.git)
 
 ---
